@@ -21,6 +21,12 @@ Selenium: https://github.com/mozilla/geckodriver/releases/download/v0.34.0/gecko
   python3 bypass-captcha-capturereturns.py <usernames_file> <passwords_file> <url>
 ```
 
+
+
+https://github.com/Andsses/capturereturns-bypass-captcha/assets/68801170/b4cd7918-b4d8-46a1-a684-37243d583870
+
+
+
 ## Authors
 
 - [@Andsses](https://github.com/Andsses?tab=repositories)
