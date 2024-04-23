@@ -1,6 +1,8 @@
 # capturereturns-bypass-captcha
 Script for the room  [capturereturns](https://tryhackme.com/r/room/capturereturns) in tryhackme, which using a set of users and password you have to verify the credentials bypassing the two captcha types that the login has
 
+![download](https://github.com/Andsses/capturereturns-bypass-captcha/assets/68801170/d7688fa3-c50b-4832-8f92-8b8c4a97d87c)
+
 ## Requirements
 
 Selenium: https://github.com/SeleniumHQ/selenium
