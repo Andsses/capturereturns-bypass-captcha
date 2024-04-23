@@ -5,7 +5,7 @@ Script for the room  [capturereturns](https://tryhackme.com/r/room/capturereturn
 
 ## Requirements
 
-Selenium: https://github.com/SeleniumHQ/selenium
+Selenium: https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-linux64.tar.gz
 
 ```bash
   pytesseract==0.3.8
